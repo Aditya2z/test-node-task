@@ -1,4 +1,4 @@
-7344
+7342
 117C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\caniuse-lite\data\regions\FI.js133275870537957144 0
 108C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\update-browserslist-db133275870458163379 1
 115C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\moment\src\locale\gom-latn.js133275897295188373 0
@@ -29,8 +29,8 @@
 100C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\posthtml\types133275870455479969 1
 109C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\htmlnano\lib\helpers.js133275870469352224 0
 146C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.js133275870448261178 0
-77C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist133276690022064349 1
-85C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\package.json133276675616337074 0
+77C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist133276631188337599 1
+85C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\package.json133276675422676984 0
 111C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\lodash\fp\differenceBy.js133276052573468635 0
 106C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\msgpackr\index.d.cts133275870459228258 0
 98C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\lodash\eq.js133276052574238170 0
@@ -80,13 +80,13 @@
 130C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133275870533123620 1
 115C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\svgo\plugins\convertColors.js133275870475438423 0
 126C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\css-select\node_modules\domutils\lib\esm133275870505655417 1
-83C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\index.html133276689142959711 0
+83C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\index.html133276673907036203 0
 111C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\lodash\sortedLastIndex.js133276052587477360 0
 117C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\caniuse-lite\data\regions\MA.js133275870545900452 0
 90C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\.bin133275870560907028 1
 135C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133275870478778361 0
 113C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\terser\lib\equivalent-to.js133275870489361494 0
-81C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\index.js133276689613491062 0
+81C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\index.js133276671861458889 0
 130C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\@parcel\core\test\fixtures\duplicate-targets133275870529285038 1
 160C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertShapeToPath.js133275870478878260 0
 108C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\term-size\package.json133275870459158304 0
@@ -1253,7 +1253,7 @@
 108C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\lodash\fp\kebabCase.js133276052580665560 0
 105C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\moment\locale\tr.js133275897305919618 0
 103C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\terser\lib\ast.js133275870460771250 0
-96C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\index.3a01df49.css133276676034250595 0
+96C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\index.3a01df49.css133276631185129435 0
 118C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\react-error-overlay\lib\index.js133275870457623697 0
 148C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\index.js133275870505110558 0
 157C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeEditorsNSData.js133275870498439234 0
@@ -2163,7 +2163,6 @@
 105C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\moment\package.json133275897307762113 0
 132C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\caniuse-lite\data\features\user-select-none.js133275870557367540 0
 118C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\moment\src\lib\moment\to-type.js133275897305839664 0
-95C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\index.3d214d75.js133276690021844475 0
 100C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\lodash\thru.js133276052589047947 0
 106C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\lodash\fp\zipWith.js133276052592219832 0
 118C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\moment\ts3.1-typings\moment.d.ts133275897308380177 0
@@ -7338,8 +7337,7 @@
 101C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\.bin\terser.ps1133275870560517253 0
 113C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\.bin\update-browserslist-db133275870560527249 0
 117C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\node_modules\.bin\update-browserslist-db.cmd133275870560547233 0
-100C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\index.3a01df49.css.map133276676034420495 0
-99C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\index.3d214d75.js.map133276690022024377 0
-88C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\index.html133276681008360107 0
+100C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\index.3a01df49.css.map133276631188277623 0
+88C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\index.html133276631188017772 0
 104C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\test-node-task.3464ddca.js133276631185139445 0
 108C:\Users\ADITYA\Documents\learn\learn-advanced-javascript\test-node-task\dist\test-node-task.3464ddca.js.map133276631188307612 0
